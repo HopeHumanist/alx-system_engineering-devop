@@ -5,4 +5,5 @@ changes the working directory to the users home directory
 displays current directory contents in long format
 displays current direcory contents including hidden files in long format
 displays current directory contents in long format, with user and grouos IDs numerically and hidden files.
+creates a directory in /tmp/
 
