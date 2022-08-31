@@ -1,2 +1,3 @@
 #!/bin/bash
-Not freaking empty
+Shell 0x00 project
+
