@@ -2,4 +2,5 @@
 prints the absolute pathname of the current working directory
 displays the contents list of your directory
 changes the working directory to the users home directory
-displays current directory contents in long format 
+displays current directory contents in long format
+displays current direcory contents including hidden files in long format
