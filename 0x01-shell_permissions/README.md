@@ -7,4 +7,5 @@ Adds execute permission to the owner of of hello
 Adds execute permission to the owner and the group owner, and read to other users
 Adds execute permission to everyone
 Sets the permission to hello
+Sets the mode of the file hello
  
