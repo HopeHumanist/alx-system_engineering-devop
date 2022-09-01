@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go-w+r hello
+chmod 756 hello
