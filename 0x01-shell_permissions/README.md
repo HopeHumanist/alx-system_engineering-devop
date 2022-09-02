@@ -9,4 +9,5 @@ Adds execute permission to everyone
 Sets the permission to hello
 Sets the mode of the file hello
 Set the mode of the file hello the same as olleh
+adds execute to all subdirectories of the current directory
  
