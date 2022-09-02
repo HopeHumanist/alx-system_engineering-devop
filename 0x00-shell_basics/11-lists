@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr ../../boot *
+ls -ald*/ ./../boot *
