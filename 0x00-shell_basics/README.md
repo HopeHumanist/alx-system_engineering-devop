@@ -8,4 +8,5 @@ displays current directory contents in long format, with user and grouos IDs num
 creates a directory in /tmp/
 Moves betty from /tmp to /tmp/my_first_directory 
 Deletes the file betty
+Deletes the my_first_directory in /tmp
 
