@@ -11,4 +11,5 @@ Sets the mode of the file hello
 Set the mode of the file hello the same as olleh
 adds execute to all subdirectories of the current directory
 creates a directory called my_dir with permission 751 in wd
+changes the group owner to school for hello 
  
