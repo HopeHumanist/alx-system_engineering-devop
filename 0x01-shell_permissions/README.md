@@ -8,4 +8,5 @@ Adds execute permission to the owner and the group owner, and read to other user
 Adds execute permission to everyone
 Sets the permission to hello
 Sets the mode of the file hello
+Set the mode of the file hello the same as olleh
  
