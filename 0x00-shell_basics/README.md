@@ -13,4 +13,5 @@ Changes the working directory to the previous one
 Lists all the files in the cd, parent and /boot
 prints the type of the file iamafile
 creates a symbolic linked named ls
+Copies all the html files from the cwd to the parent of the wd
  
