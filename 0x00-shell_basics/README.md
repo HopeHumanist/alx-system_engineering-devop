@@ -9,4 +9,4 @@ creates a directory in /tmp/
 Moves betty from /tmp to /tmp/my_first_directory 
 Deletes the file betty
 Deletes the my_first_directory in /tmp
-
+Changes the working directory to the previous one
