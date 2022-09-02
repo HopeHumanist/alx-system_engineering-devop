@@ -11,4 +11,5 @@ Deletes the file betty
 Deletes the my_first_directory in /tmp
 Changes the working directory to the previous one
 Lists all the files in the cd, parent and /boot
+prints the type of the file iamafile
  
