@@ -7,4 +7,5 @@ displays current direcory contents including hidden files in long format
 displays current directory contents in long format, with user and grouos IDs numerically and hidden files.
 creates a directory in /tmp/
 Moves betty from /tmp to /tmp/my_first_directory 
+Deletes the file betty
 
