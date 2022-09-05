@@ -7,7 +7,7 @@ Displays the first 10 lines of /etc/passwd
 Displays the third line of etc/passwd
 Creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 Writes into file ls_cwd_content
-
+Deletes all regular .js files
 
 Counts the number of dirs and subdirs in the cd
 Displays the newest 10 files in the cd
