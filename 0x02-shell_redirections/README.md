@@ -8,3 +8,6 @@ Displays the third line of etc/passwd
 Creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 Writes into file ls_cwd_content
 
+
+
+Displays the newest 10 files in the cd
