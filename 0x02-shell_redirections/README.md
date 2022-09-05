@@ -9,5 +9,5 @@ Creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 Writes into file ls_cwd_content
 
 
-
+Counts the number of dirs and subdirs in the cd
 Displays the newest 10 files in the cd
