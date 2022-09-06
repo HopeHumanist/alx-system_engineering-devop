@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello user" | $ user=whoami
+printf "hello user" | echo  $user=whoami
