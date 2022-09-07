@@ -15,4 +15,5 @@ Prints words that appear only once
 Displays lines containing "root"
 Display the # of lines containing 'bin' in /etc/passwd
 Displays lines containing "root" in /etc/passwd
+Displays all the lines in the file
 
