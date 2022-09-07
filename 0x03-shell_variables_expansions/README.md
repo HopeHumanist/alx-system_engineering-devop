@@ -10,4 +10,6 @@ Prints the result of 128+trueknowledge
 Prints the result of POwer/Divide
 Displays the result of breath to the power love
 Converts a # to base 10
+Prints all possible combos of two except 'oo'
+Prints a # with 2 decimal places 
 
