@@ -6,4 +6,6 @@ lists the environment vars
 Lists all variables
 creates a new local var
 creates a global var
+Prints the result of 128+trueknowledge
+Prints the result of POwer/Divide
 
