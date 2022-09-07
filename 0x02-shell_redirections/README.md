@@ -17,3 +17,7 @@ Display the # of lines containing 'bin' in /etc/passwd
 Displays lines containing "root" in /etc/passwd
 Displays all the lines in the file
 
+
+
+Reverses its input
+
