@@ -9,4 +9,5 @@ creates a global var
 Prints the result of 128+trueknowledge
 Prints the result of POwer/Divide
 Displays the result of breath to the power love
+Converts a # to base 10
 
