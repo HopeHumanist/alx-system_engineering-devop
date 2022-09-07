@@ -16,6 +16,7 @@ Displays lines containing "root"
 Display the # of lines containing 'bin' in /etc/passwd
 Displays lines containing "root" in /etc/passwd
 Displays all the lines in the file
+Displays line in the file that dont contain 'bin'
 Replace all chars A&c
 Removes all letters c and C
 Reverses its input
